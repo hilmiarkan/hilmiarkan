@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 -->
 
 ![twitter_FfohB6xWAAAUqn_](https://user-images.githubusercontent.com/8338033/209463480-a5efb41d-2ce2-45c7-993c-8042064d2580.png)
-
-<a href="https://github.com/hilmiarkan"><img src="contributions.svg"></a>
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=hilmiarkan.hilmiarkan" />
